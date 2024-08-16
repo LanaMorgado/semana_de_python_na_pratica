@@ -1,0 +1,14 @@
+Você trabalha em uma empresa de investimentos e o objetivo é enviar análises solicitadas por e-mail.
+
+1- Entrar no Yahoo Finance
+2- Seleciona a ação
+3- Selecionar o período
+4- Fazer o download
+5- Montar análises
+6- Preparar e-mail
+7- Enviar e-mail
+(1h pra esse processo não automatizado)
+
+Com Python
+1- Rodar sistema
+2- Escolher ação
